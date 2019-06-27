@@ -1,0 +1,5 @@
+modele\DAO.class
+modele\DiscountEntity.class
+test\Main.class
+modele\DataSourceFactory.class
+modele\DAOException.class
